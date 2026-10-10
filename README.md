@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I133
 ### Team Details
-#### **Team Name** TECH FORGE 6 <br/>
+#### **Team Name** : TECH FORGE 6 <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
